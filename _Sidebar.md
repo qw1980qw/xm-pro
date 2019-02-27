@@ -1,12 +1,12 @@
-### [Installation](https://github.com/daliansky/XiaoMi-Pro/wiki/Installation)
+## [Installation](https://github.com/daliansky/XiaoMi-Pro/wiki/Installation)
 
-### Troubleshooting
+## Troubleshooting
 
 [FAQ](https://github.com/daliansky/XiaoMi-Pro/wiki/FAQ)
 
 [Problem Report](https://github.com/daliansky/XiaoMi-Pro/wiki/Problem-Report)
 
-### Advanced
+## Advanced
 
 [Fix Bluetooth](https://github.com/daliansky/XiaoMi-Pro/wiki/Fix-Bluetooth)
 
@@ -14,4 +14,4 @@
 
 [Unlock 0xE2 MSR](https://github.com/daliansky/XiaoMi-Pro/wiki/Unlock-0xE2-MSR)
 
-### [References](https://github.com/daliansky/XiaoMi-Pro/wiki/References)
+## [References](https://github.com/daliansky/XiaoMi-Pro/wiki/References)
