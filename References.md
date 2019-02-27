@@ -10,6 +10,7 @@
   - [Intel® HD Graphics FAQ](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.en.md)
 - [black.dragon74](https://osxlatitude.com/profile/86692-blackdragon74)
   - [[UPDATED] [NOV. 2017] FIX BTFIRMWAREUPLOADER IN MACOS HIGH SIERRA](https://osxlatitude.com/forums/topic/10127-updated-nov-2017-fix-btfirmwareuploader-in-macos-high-sierra)
+- [Clover Wiki](https://clover-wiki.zetam.org/Home)
 - [daliansky](https://github.com/daliansky)
   - [使用AppleALC声卡仿冒驱动AppleHDA的正确姿势](https://blog.daliansky.net/Use-AppleALC-sound-card-to-drive-the-correct-posture-of-AppleHDA.html)
 - [headkaze](https://www.insanelymac.com/forum/profile/1364628-headkaze)
