@@ -1,4 +1,4 @@
-## [Installation](https://github.com/daliansky/XiaoMi-Pro/wiki/Installation)
+### [Installation](https://github.com/daliansky/XiaoMi-Pro/wiki/Installation)
 
 ## Troubleshooting
 
@@ -14,4 +14,4 @@
 
 [Unlock 0xE2 MSR](https://github.com/daliansky/XiaoMi-Pro/wiki/Unlock-0xE2-MSR)
 
-## [References](https://github.com/daliansky/XiaoMi-Pro/wiki/References)
+### [References](https://github.com/daliansky/XiaoMi-Pro/wiki/References)
