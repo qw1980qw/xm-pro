@@ -1,1 +1,17 @@
-Test1
+## General Guides
+
+- [Rehabman](https://www.tonymacx86.com/members/rehabman.429483)
+  - [[FAQ] READ FIRST! Laptop Frequent Questions](https://www.tonymacx86.com/threads/faq-read-first-laptop-frequent-questions.164990)
+  - [[FIX] "Window Server Service only ran for 0 seconds" with dual-GPU](https://www.tonymacx86.com/threads/fix-window-server-service-only-ran-for-0-seconds-with-dual-gpu.233092/)
+  - [[Guide] Booting the OS X installer on LAPTOPS with Clover](https://www.tonymacx86.com/threads/guide-booting-the-os-x-installer-on-laptops-with-clover.148093)
+  - [[Guide] Alternative to the minStolenSize patch with 32mb DVMT-prealloc](https://www.tonymacx86.com/threads/guide-alternative-to-the-minstolensize-patch-with-32mb-dvmt-prealloc.221506)
+  - [[Guide] Creating a Custom SSDT for USBInjectAll.kext](https://www.tonymacx86.com/threads/guide-creating-a-custom-ssdt-for-usbinjectall-kext.211311)
+  - [[Guide] Disabling discrete graphics in dual-GPU laptops](https://www.tonymacx86.com/threads/guide-disabling-discrete-graphics-in-dual-gpu-laptops.163772)
+  - [[Guide] Intel IGPU HDMI/DP audio (all Sandy Bridge -> Kaby Lake [and likely later])](https://www.tonymacx86.com/threads/guide-intel-igpu-hdmi-dp-audio-all-sandy-bridge-kaby-lake-and-likely-later.189495)
+  - [[Guide] Laptop backlight control using AppleBacklightFixup.kext](https://www.tonymacx86.com/threads/guide-laptop-backlight-control-using-applebacklightfixup-kext.218222)
+  - [[Guide] Native Power Management for Laptops](https://www.tonymacx86.com/threads/guide-native-power-management-for-laptops.175801)
+  - [[Guide] Patching DSDT/SSDT for LAPTOP backlight control](https://www.tonymacx86.com/threads/guide-patching-dsdt-ssdt-for-laptop-backlight-control.152659)
+  - [[Guide] Patching LAPTOP DSDT/SSDTs](https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573)
+  - [[Guide] USB power property injection for Sierra (and later)](https://www.tonymacx86.com/threads/guide-usb-power-property-injection-for-sierra-and-later.222266)
+  - [[Guide] Using Clover to "hotpatch" ACPI](https://www.tonymacx86.com/threads/guide-using-clover-to-hotpatch-acpi.200137)
+  - [[README] Common Problems in 10.13 High Sierra](https://www.tonymacx86.com/threads/readme-common-problems-in-10-13-high-sierra.233582)
