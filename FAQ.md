@@ -7,7 +7,7 @@ A: Currently there's [no solution for PM981 on macOS 10.13.3+](https://www.tonym
 ## Audio
 <b>Q: Headphones not working after sleep</b>
 
-A: If headphones are not working, please use [ALCPlugFix](https://github.com/daliansky/XiaoMi-Pro/tree/master/ALCPlugFix/README.md). You may need to replug headphone after every boot. This issue seems solved in [v1.3.0 Release](https://github.com/daliansky/XiaoMi-Pro/releases/tag/v1.3.0).
+A: If headphones are not working, please use [ALCPlugFix](https://github.com/daliansky/XiaoMi-Pro/master/ALCPlugFix/README.md). You may need to replug headphone after every boot. This issue seems solved in [v1.3.0 Release](https://github.com/daliansky/XiaoMi-Pro/releases/tag/v1.3.0).
 
 ## Bluetooth
 <b>Q: Bluetooth not working after long sleep or hard restart</b>
