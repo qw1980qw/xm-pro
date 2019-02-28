@@ -34,6 +34,7 @@
   - [[Guide] USB power property injection for Sierra (and later)](https://www.tonymacx86.com/threads/guide-usb-power-property-injection-for-sierra-and-later.222266)
   - [[Guide] Using Clover to "hotpatch" ACPI](https://www.tonymacx86.com/threads/guide-using-clover-to-hotpatch-acpi.200137)
   - [[README] Common Problems in 10.13 High Sierra](https://www.tonymacx86.com/threads/readme-common-problems-in-10-13-high-sierra.233582)
+  - [Adding/Using HiDPI custom resolutions](https://www.tonymacx86.com/threads/adding-using-hidpi-custom-resolutions.133254)
 - [Sniki](https://www.tonymacx86.com/members/sniki.1501160)
   - [[README] Common Problems and Workarounds on 10.14 Mojave](https://www.tonymacx86.com/threads/readme-common-problems-and-workarounds-on-10-14-mojave.255823)
 
