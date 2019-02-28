@@ -5,7 +5,7 @@ CFG Lock option is available on most APTIO V firmwares, although it may be hidde
 
 ## How to Unlock
 
-[Cyb](http://4pda.ru/forum/index.php?showuser=914121) and [FallenChromium](https://github.com/FallenChromium) created script to unlock. Please download [DVMT_and_0xE2_fix](https://github.com/daliansky/XiaoMi-Pro/master/BIOS/DVMT_and_0xE2_fix) and read [README](https://github.com/daliansky/XiaoMi-Pro/master/BIOS/DVMT_and_0xE2_fix/README.md) to unlock.
+[Cyb](http://4pda.ru/forum/index.php?showuser=914121) and [FallenChromium](https://github.com/FallenChromium) created script to unlock. Please download [DVMT_and_0xE2_fix](https://github.com/daliansky/XiaoMi-Pro/tree/master/BIOS/DVMT_and_0xE2_fix) and read [README](https://github.com/daliansky/XiaoMi-Pro/tree/master/BIOS/DVMT_and_0xE2_fix/README.md) to unlock.
 
 After that, you could enjoy more power-saving sleep.
 - Open `/EFI/CLOVER/config.plist`, find the following code:
