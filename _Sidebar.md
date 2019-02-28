@@ -4,6 +4,8 @@
 
 [[FAQ]]
 
+[[常见问题解答]]
+
 [[Problem Report]]
 
 ## Advanced
