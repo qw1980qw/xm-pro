@@ -12,7 +12,7 @@ A: If headphones are not working, please use [ALCPlugFix](https://github.com/dal
 ## Bluetooth
 <b>Q: Bluetooth not working after long sleep or hard restart</b>
 
-A: Native Intel Bluetooth is [not working well](https://github.com/daliansky/XiaoMi-Pro/issues/50) in macOS. You can disable it, use a USB BT dongle, or solder D+ and D- wires to the WLAN_LTE slot.
+A: Native Intel Bluetooth is [not working well](https://github.com/daliansky/XiaoMi-Pro/issues/50) in macOS. You can disable it, use a USB BT dongle, or solder D+ and D- wires to the WLAN_LTE slot. See [[Work Around with Bluetooth]].
 
 ## Boot
 <b>Q: Device is locked by `Find My Mac`</b>
