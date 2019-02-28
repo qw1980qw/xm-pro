@@ -8,7 +8,7 @@
 
 ## Advanced
 
-[[Fix Bluetooth]]
+[[Work Around with Bluetooth]]
 
 [[Set DVMT to 64MB]]
 
