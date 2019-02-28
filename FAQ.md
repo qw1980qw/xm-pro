@@ -7,7 +7,7 @@ A: Currently there's [no solution for PM981 on macOS 10.13.3+](https://www.tonym
 ## Audio
 <b>Q: Headphones not working after sleep</b>
 
-A: If headphones are not working, please use [ALCPlugFix](https://github.com/daliansky/XiaoMi-Pro/master/ALCPlugFix/README.md). You may need to replug headphone after every boot. This issue seems solved in [v1.3.0 Release](https://github.com/daliansky/XiaoMi-Pro/releases/tag/v1.3.0).
+A: If headphones are not working, please use [ALCPlugFix](https://github.com/daliansky/XiaoMi-Pro/tree/master/ALCPlugFix/README.md). You may need to replug headphone after every boot. This issue seems solved in [v1.3.0 Release](https://github.com/daliansky/XiaoMi-Pro/releases/tag/v1.3.0).
 
 ## Bluetooth
 <b>Q: Bluetooth not working after long sleep or hard restart</b>
@@ -17,7 +17,7 @@ A: Native Intel Bluetooth is [not working well](https://github.com/daliansky/Xia
 ## Boot
 <b>Q: Device is locked by `Find My Mac`</b>
 
-A: I believe there are many ways to solve this problem. I give a most understandable one here (at least for me). The solution is to refresh your BIOS in order to clean `nvram.plist`. Please read `How to update BIOS` in [BIOS folder](https://github.com/daliansky/XiaoMi-Pro/master/BIOS/README.md).
+A: I believe there are many ways to solve this problem. I give a most understandable one here (at least for me). The solution is to refresh your BIOS in order to clean `nvram.plist`. Please read `How to update BIOS` in [BIOS folder](https://github.com/daliansky/XiaoMi-Pro/tree/master/BIOS/README.md).
 
 <b>Q: Fail to boot in Windows/Linux by using Clover, but able to boot by pressing F12 and select OS</b>
 
