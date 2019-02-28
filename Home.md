@@ -13,10 +13,10 @@
 
 ## Advanced
 
-[[Fix Bluetooth]]
-
 [[Set DVMT to 64MB]]
 
 [[Unlock 0xE2 MSR]]
+
+[[Work Around with Bluetooth]]
 
 ### [[References]]
