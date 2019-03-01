@@ -21,7 +21,7 @@ A: I believe there are many ways to solve this problem. I give a most understand
 
 <b>Q: Fail to boot in Windows/Linux by using Clover, but able to boot by pressing F12 and select OS</b>
 
-A: Many people met this problem by using the new version of `AptioMemoryFix.efi`. A workaround is to delete `AptioMemoryFix-64.efi` in `/CLOVER/drivers64UEFI/` and replace it with the old version provided in [#93](https://github.com/daliansky/XiaoMi-Pro/issues/93).
+A: Many people met this problem by using the new version of `AptioMemoryFix.efi`. A workaround is to delete `AptioMemoryFix-64.efi` in `/CLOVER/drivers64UEFI/` and replace it with an [older version](https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/AptioMemoryFix.efi).
 
 <b>Q: `FileVault` encrypted the macOS partition and the partition does not show up</b>
 
