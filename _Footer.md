@@ -1,1 +1,1 @@
-Special thanks to [hieplpvip](https://github.com/hieplpvip). The [wiki page](https://github.com/hieplpvip/ASUS-ZENBOOK-HACKINTOSH/wiki) he writes is really beautiful, and this wiki build is based on it.
+Special thanks to [hieplpvip](https://github.com/hieplpvip). His [wiki page](https://github.com/hieplpvip/ASUS-ZENBOOK-HACKINTOSH/wiki) is really beautiful, and this wiki build is based on it.
