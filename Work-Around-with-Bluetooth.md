@@ -2,9 +2,9 @@
 As we know, the Bluetooth would be invalid after long sleep or hard restart. Because there're no driver for Intel Bluetooth in macOS, the Bluetooth hardware is not able to receive firmware from Hack. As a result, you need to warm restart from Windows to get Bluetooth run. There're three ways to get better BT experience:
 
 - ### Insert a USB Bluetooth
-  - Buy and insert a supported BT dongle from [OS-X-BrcmPatchRAM's README](https://github.com/RehabMan/OS-X-BrcmPatchRAM/master/README.md)
+  - Buy and insert a supported BT dongle from [OS-X-BrcmPatchRAM's README](https://github.com/RehabMan/OS-X-BrcmPatchRAM/tree/master/README.md)
   - Replace `/CLOVER/kexts/Other/USBPorts` with [USBPorts-USBBT.kext](https://github.com/daliansky/XiaoMi-Pro/tree/master/wiki/USBPorts-USBBT.kext)
-  - Add `BrcmPatchRAM2.kext` and `BrcmFirmwareRepo.kext`(/L/E) or `BrcmFirmwareData.kext`(CLOVER/kexts/Other)
+  - Add `BrcmPatchRAM2.kext` and `BrcmFirmwareRepo.kext`(/L/E) or `BrcmFirmwareData.kext`(/CLOVER/kexts/Other)
   - Rebuild kextcache and restart 
 
 - ### Solder D+ and D- wires to the WLAN_LTE slot
