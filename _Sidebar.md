@@ -2,16 +2,26 @@
 
 ## Troubleshooting
 
-[[FAQ]] | [[常见问题解答]]
+[[FAQ]]
 
-[[Problem Report]] | [[问题报告]]
+[[常见问题解答]]
+
+[[Problem Report]]
+
+[[问题报告]]
 
 ## Advanced
 
-[[Set DVMT to 64mb]] | [[设置64mb帧缓存]]
+[[Set DVMT to 64mb]]
 
-[[Unlock 0xE2 MSR]] | [[解锁0xE2寄存器]]
+[[设置64mb帧缓存]]
 
-[[Work Around with Bluetooth]] | [[蓝牙解决方案]]
+[[Unlock 0xE2 MSR]]
+
+[[解锁0xE2寄存器]]
+
+[[Work Around with Bluetooth]]
+
+[[蓝牙解决方案]]
 
 ## [[References]] | [[参考]]
