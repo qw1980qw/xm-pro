@@ -1,3 +1,3 @@
-- Open new issue and describe your problem clearly
+- [Open new issue](https://github.com/daliansky/XiaoMi-Pro/issues/new) and describe your problem clearly
 - State your model (e.g. XiaoMi-Pro GTX)
 - Attach output from [gen_debug](https://www.tonymacx86.com/threads/tool-generate-proper-problem-reporting-files.235953)
