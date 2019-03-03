@@ -39,7 +39,7 @@ A: You need to rebuild the kext cache after every system update. Use `Kext Utili
 
 <b>Q: Lag when type</b>
 
-A: The latest keyboard driver can temporily disable the touchpad during typing. If you are not happy with the lag, a workaround is provided in [#19](https://github.com/stevezhengshiqi/XiaoMi-Pro/issues/19).
+A: The latest keyboard driver can temporily disable the trackpad during typing. If you are not happy with the lag, please replace `/CLOVER/kexts/Other/VoodooPS2Controller.kext` with the [older version of VoodooPS2Controller.kext](https://github.com/daliansky/XiaoMi-Pro/tree/master/wiki/VoodooPS2Controller.kext).
 
 ## Keyboard
 <b>Q: Caps Lock not working</b>
