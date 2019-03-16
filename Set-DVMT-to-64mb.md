@@ -1,3 +1,4 @@
+<b>MX150 Only!</b>
 ## Introduction
 According to [[Guide] Alternative to the minStolenSize patch with 32mb DVMT-prealloc](https://www.tonymacx86.com/threads/guide-alternative-to-the-minstolensize-patch-with-32mb-dvmt-prealloc.221506), "[a] common problem with Broadwell/Skylake/KabyLake is relatively small DVMT-prealloc setting by PC OEMs. The Apple framebuffer kexts generally assume 64mb or larger, and most PC OEMs use only 32mb." In this way, we patch the framebuffer to fit within the 32mb DVMT-prealloc in the build.
 
