@@ -1,3 +1,4 @@
+<b>MX150 Only!</b>
 ## Introduction
 According to [AptioFixPkg's README](https://github.com/acidanthera/AptioFixPkg#verifymsre2), "[c]ertain firmwares fail to properly initialize 0xE2 MSR register (MSR_BROADWELL_PKG_CST_CONFIG_CONTROL) across all the cores....
 
