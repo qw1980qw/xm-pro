@@ -17,7 +17,7 @@ A: Native Intel Bluetooth is [not working well](https://github.com/daliansky/Xia
 ## Boot
 <b>Q: Device is locked by `Find My Mac`</b>
 
-A: I believe there are many ways to solve this problem. I give a most understandable one here (at least for me). The solution is to refresh your BIOS in order to clean `nvram.plist`. Please read `How to update BIOS` in [BIOS folder](https://github.com/daliansky/XiaoMi-Pro/tree/master/BIOS/README.md).
+A: Press Fn+F11 when you are in Clover boot page. Then Clover will refresh `nvram.plist`, and lock message should be removed.
 
 <b>Q: Fail to boot in Windows/Linux by using Clover, but able to boot by pressing F12 and select OS</b>
 
