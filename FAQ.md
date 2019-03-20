@@ -17,7 +17,7 @@ A: Native Intel Bluetooth is [not working well](https://github.com/daliansky/Xia
 ## Boot
 <b>Q: Device is locked by `Find My Mac`</b>
 
-A: Press Fn+F11 when you are in Clover boot page. Then Clover will refresh `nvram.plist`, and lock message should be removed.
+A: Press `Fn+F11` when you are in Clover boot page. Then Clover will refresh `nvram.plist`, and lock message should be removed.
 
 <b>Q: Fail to boot in Windows/Linux by using Clover, but able to boot by pressing F12 and select OS</b>
 
