@@ -56,3 +56,7 @@ A: Intel Wireless Card could never work on macOS. Please use a USB WiFi dongle o
 <b>Q: Location Service/AirDrop/Handoff is not working</b>
 
 A: Location Service/AirDrop/Handoff needs a supported internal wireless card to work(A few USB dongles can use location service, I don't know why). AirDrop and Handoff also need stable bluetooth connection, see [[Work Around with Bluetooth]].
+
+<b>Q: New internal wireless card's speed is low after wake</b>
+
+A: Open SysPref - EnergySaver - PowerAdapter, and uncheck `Wake for Wi-Fi network access`.
