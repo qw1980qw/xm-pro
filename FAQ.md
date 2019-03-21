@@ -21,7 +21,7 @@ A: Press `Fn+F11` when you are in Clover boot page. Then Clover will refresh `nv
 
 <b>Q: Fail to boot in Windows/Linux by using Clover, but able to boot by pressing F12 and select OS</b>
 
-A: Many people met this problem by using the new version of `AptioMemoryFix.efi`. A workaround is to delete `AptioMemoryFix-64.efi` in `/CLOVER/drivers64UEFI/` and replace it with an [older version](https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/AptioMemoryFix.efi).
+A: Many people met this problem by using the new version of `AptioMemoryFix.efi`. A workaround is to replace `/CLOVER/drivers64UEFI/AptioMemoryFix-64.efi` with an [older version](https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/AptioMemoryFix-64.efi).
 
 <b>Q: `FileVault` encrypted the macOS partition and the partition does not show up</b>
 
