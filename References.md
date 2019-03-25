@@ -50,13 +50,13 @@
   - [Lilu](https://github.com/acidanthera/Lilu)
   - `USBPorts`
   - [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
+  - [VoodooPS2](https://github.com/acidanthera/VoodooPS2)
   - [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
 - [alexandred](https://github.com/alexandred)
   - [VoodooI2C](https://github.com/alexandred/VoodooI2C)
 - [RehabMan](https://github.com/RehabMan)
   - [EAPD-Codec-Commander](https://github.com/RehabMan/EAPD-Codec-Commander)
   - [OS-X-Null-Ethernet](https://github.com/RehabMan/OS-X-Null-Ethernet)
-  - [OS-X-Voodoo-PS2-Controller](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller)
   - [SATA-unsupported](https://github.com/RehabMan/hack-tools/tree/master/kexts/SATA-unsupported.kext)
   - (Optional)[OS-X-BrcmPatchRAM](https://github.com/RehabMan/OS-X-BrcmPatchRAM)
 
