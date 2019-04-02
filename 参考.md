@@ -15,6 +15,8 @@
 - [Clover Wiki](https://clover-wiki.zetam.org/Home)
 - [daliansky](https://github.com/daliansky)
   - [使用AppleALC声卡仿冒驱动AppleHDA的正确姿势](https://blog.daliansky.net/Use-AppleALC-sound-card-to-drive-the-correct-posture-of-AppleHDA.html)
+- [EMlyDinEsH](https://osxlatitude.com/profile/7370-emlydinesh)
+  - [Complete AppleHDA Patching Guide](https://osxlatitude.com/forums/topic/1946-complete-applehda-patching-guide)
 - [headkaze](https://www.insanelymac.com/forum/profile/1364628-headkaze)
   - [Hackintool v1.9.2](https://www.insanelymac.com/forum/topic/335018-hackintool-v192)
   - [Intel Framebuffer patching using WhateverGreen](https://www.insanelymac.com/forum/topic/334899-intel-framebuffer-patching-using-whatevergreen)
@@ -39,6 +41,7 @@
   - [[Guide] Using Clover to "hotpatch" ACPI](https://www.tonymacx86.com/threads/guide-using-clover-to-hotpatch-acpi.200137)
   - [[README] Common Problems in 10.13 High Sierra](https://www.tonymacx86.com/threads/readme-common-problems-in-10-13-high-sierra.233582)
   - [Adding/Using HiDPI custom resolutions](https://www.tonymacx86.com/threads/adding-using-hidpi-custom-resolutions.133254)
+  - [Any fix to the Garbled/Distorted Headphone issue?](https://www.tonymacx86.com/threads/any-fix-to-the-garbled-distorted-headphone-issue.159031/page-3)
 - [Sniki](https://www.tonymacx86.com/members/sniki.1501160)
   - [[README] Common Problems and Workarounds on 10.14 Mojave](https://www.tonymacx86.com/threads/readme-common-problems-and-workarounds-on-10-14-mojave.255823)
 
