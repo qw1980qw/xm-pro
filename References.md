@@ -1,5 +1,7 @@
 ## Bootloader Used
 
+- [Acidanthera](https://github.com/acidanthera)
+  - [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 - [apianti](https://sourceforge.net/u/apianti), [blackosx](https://sourceforge.net/u/blackosx), [blusseau](https://sourceforge.net/u/blusseau), [dmazar](https://sourceforge.net/u/dmazar), and [slice2009](https://sourceforge.net/u/slice2009)
   - [Clover](https://sourceforge.net/projects/cloverefiboot)
 
@@ -75,16 +77,3 @@
 
 - [[Guide] Xiaomi Mi Notebook Pro High Sierra 10.13.6](https://www.tonymacx86.com/threads/guide-xiaomi-mi-notebook-pro-high-sierra-10-13-6.242724)
 - [macOS安装教程兼小米Pro安装过程记录](https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html)
-
-
-## Special Thanks to
-
-- [FallenChromium](https://github.com/FallenChromium), [Javmain](https://github.com/javmain), [johnnync13](https://github.com/johnnync13), and [qeeqez](https://github.com/qeeqez)
-
-
-## Others
-
-- [hieplpvip](https://github.com/hieplpvip)
-  - [ASUS-ZENBOOK-HACKINTOSH](https://github.com/hieplpvip/ASUS-ZENBOOK-HACKINTOSH)
-- [syscl](https://github.com/syscl)
-  - [XPS9350-macOS](https://github.com/syscl/XPS9350-macOS)
