@@ -10,6 +10,7 @@
 
 - [Acidanthera](https://github.com/acidanthera)
   - [Intel® HD Graphics FAQ](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.en.md)
+  - [OpenCorePkg Configuration](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf)
 - [black.dragon74](https://osxlatitude.com/profile/86692-blackdragon74)
   - [[UPDATED] [NOV. 2017] FIX BTFIRMWAREUPLOADER IN MACOS HIGH SIERRA](https://osxlatitude.com/forums/topic/10127-updated-nov-2017-fix-btfirmwareuploader-in-macos-high-sierra)
 - [CaseySJ](https://www.tonymacx86.com/members/caseysj.2134452)
