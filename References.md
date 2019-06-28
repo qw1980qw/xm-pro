@@ -54,7 +54,6 @@
 - [Acidanthera](https://github.com/acidanthera)
   - [AppleALC](https://github.com/acidanthera/AppleALC)
   - [Lilu](https://github.com/acidanthera/Lilu)
-  - `USBPorts`
   - [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
   - [VoodooPS2](https://github.com/acidanthera/VoodooPS2)
   - [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
@@ -64,6 +63,7 @@
   - [EAPD-Codec-Commander](https://github.com/RehabMan/EAPD-Codec-Commander)
   - [OS-X-Null-Ethernet](https://github.com/RehabMan/OS-X-Null-Ethernet)
   - [SATA-unsupported](https://github.com/RehabMan/hack-tools/tree/master/kexts/SATA-unsupported.kext)
+  - [OS-X-USB-Inject-All](https://github.com/RehabMan/OS-X-USB-Inject-All)
   - (Optional)[OS-X-BrcmPatchRAM](https://github.com/RehabMan/OS-X-BrcmPatchRAM)
 
 
