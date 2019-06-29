@@ -3,7 +3,7 @@ As we know, the Bluetooth would be invalid after long sleep or hard restart. Bec
 
 - ### Insert a USB Bluetooth
   - Buy and insert a supported BT dongle from [OS-X-BrcmPatchRAM's README](https://github.com/RehabMan/OS-X-BrcmPatchRAM/tree/master/README.md)
-  - Replace `/CLOVER/kexts/Other/USBPorts.kext` with [USBPorts-USBBT.kext](https://github.com/daliansky/XiaoMi-Pro/tree/master/wiki/USBPorts-USBBT.kext)
+  - Replace `/CLOVER/ACPI/patched/SSDT-USB.aml` with [SSDT-USB-USBBT.aml](https://raw.githubusercontent.com/daliansky/XiaoMi-Pro-Hackintosh/master/wiki/SSDT-USB-USBBT.aml)
   - Add `BrcmPatchRAM2.kext` and `BrcmFirmwareRepo.kext`(/L/E) or `BrcmFirmwareData.kext`(/CLOVER/kexts/Other)
   - Rebuild kextcache and restart 
 
@@ -11,7 +11,7 @@ As we know, the Bluetooth would be invalid after long sleep or hard restart. Bec
   - Buy and insert a supported internal wireless card(e.g. BCM943602CS) in M.2 slot
   - Carefully solder D+ and D- wires to the WLAN_LTE slot as [#7](https://github.com/stevezhengshiqi/XiaoMi-Pro/issues/7)
   - Go to Windows, run `Device Manager` to check whether the soldering is success or not
-  - If success, replace `/CLOVER/kexts/Other/USBPorts.kext` with [USBPorts-SolderBT.kext](https://github.com/daliansky/XiaoMi-Pro/tree/master/wiki/USBPorts-SolderBT.kext)
+  - If success, replace `/CLOVER/ACPI/patched/SSDT-USB.aml` with [SSDT-USB-SolderBT.aml](https://raw.githubusercontent.com/daliansky/XiaoMi-Pro-Hackintosh/master/wiki/SSDT-USB-SolderBT.aml)
 
-- ### (Not tested) Use VM to upload Bluetooth firmware
+- ### Use VM to upload Bluetooth firmware
   - Read [black.dragon74](https://osxlatitude.com/profile/86692-blackdragon74)'s [instruction](https://osxlatitude.com/forums/topic/10127-updated-nov-2017-fix-btfirmwareuploader-in-macos-high-sierra)
