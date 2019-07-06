@@ -38,15 +38,16 @@
 - First, you have to make sure your EFI partition is larger than 200MB. 250MB is a safe size.
   - If your EFI/ESP partition is smaller than 200MB, you can use `DiskGenius` to merge EFI and MSR partition.
   - If the total size of EFI/ESP and MSR partition is still smaller than 200MB, you need to create a new EFI partition with >200MB size.
-- Download and install DiskGenius from https://www.diskgenius.com
+- Download and install `DiskGenius` from https://www.diskgenius.com
 - Then, backup BOOT and CLOVER folder from your EFI/ESP partition to other places
 - Delete BOOT and CLOVER folders and copy these two folders from the EFI release you downloaded in Step 3
+  - If there's no CLOVER folder, that's OK; Ignore the capitalization of BOOT folder, lowercase is OK
 <img src="https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/img/Installation_5.jpg" alt="Copy EFI">&nbsp;
 
 
 ## Step 5 - Adjust boot entry
 
-- Download Bootice from https://www.majorgeeks.com/mg/getmirror/bootice_64_bit,1.html
+- Download `Bootice` from https://www.majorgeeks.com/mg/getmirror/bootice_64_bit,1.html
 - Select your SSD in `Destination Disk`(not your U-disk!), click `Parts Manage`, select the ESP/EFI partition in the new window, and click `Assign Drive Letter`
 <img src="https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/img/Installation_6.jpg" alt="Mount EFI">&nbsp;
 - Remember the new letter given to the EFI/ESP partition
@@ -72,7 +73,7 @@
 - Boot your device, and use arrow key to choose `Boot macOS Install from Install macOS ~`
   - If you can not see something like the following picture, please redo Step 5
 <img src="https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/img/Installation_11.jpg" alt="Choose macOS Install">&nbsp;
-- Wait until a `macOS Utilities` window shows up. Double click `Disk Utility`
+- Wait until a `macOS Utilities` window shows up. Double click `Disk Utility`.
 <img src="https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/img/Installation_12.jpg" alt="Open Disk Utility">&nbsp;
 - If you are installing macOS on an entire separate SSD
   - Click the window button at top left and choose `Show All Devices`
