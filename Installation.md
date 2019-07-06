@@ -81,6 +81,6 @@
 <img src="https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/img/Installation_14.jpg" alt="Format SSD to APFS">&nbsp;
 - If you are installing macOS on a partition, select the target partition and click `Erase`. Format should be `APFS`.
   - If an error message `MediaKit reports not enough space on device for requested operation` appears, please redo Step 4
-- Close this windows by click red button at top left, and double click `Install macOS`
+- Close this windows by clicking red button at top left, and double click `Install macOS`
 <img src="https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/img/Installation_15.jpg" alt="Install macOS">&nbsp;
 - Wait until finish, device will reboot several times
