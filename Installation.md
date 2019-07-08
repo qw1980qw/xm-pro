@@ -71,7 +71,7 @@
 ## Step 7 - Install macOS
 
 - Boot your device, and use arrow key to choose `Boot macOS Install from Install macOS ~`
-  - If you can not see something like the following picture, please redo Step 5
+  - If you can not see something like the following picture, please redo [Step 5](https://github.com/daliansky/XiaoMi-Pro-Hackintosh/wiki/Installation#step-5---adjust-boot-entry)
 <img src="https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/img/Installation_11.jpg" alt="Choose macOS Install">&nbsp;
 - Wait until a `macOS Utilities` window shows up. Double click `Disk Utility`.
 <img src="https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/img/Installation_12.jpg" alt="Open Disk Utility">&nbsp;
@@ -81,7 +81,7 @@
   - Select your target SSD and click `Erase`. Format should be `APFS`.
 <img src="https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/img/Installation_14.jpg" alt="Format SSD to APFS">&nbsp;
 - If you are installing macOS on a partition, select the target partition and click `Erase`. Format should be `APFS`.
-  - If an error message `MediaKit reports not enough space on device for requested operation` appears, please redo Step 4
+  - If an error message `MediaKit reports not enough space on device for requested operation` appears, please redo [Step 4](https://github.com/daliansky/XiaoMi-Pro-Hackintosh/wiki/Installation#step-4---modify-efi-partition)
 - Close this windows by clicking red button at top left, and double click `Install macOS`
 <img src="https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/img/Installation_15.jpg" alt="Install macOS">&nbsp;
 - Wait until finish, device will reboot several times
