@@ -33,9 +33,9 @@
 - Unzip it to the desktop
 
 
-## Step 4 - Modify EFI partition
+## Step 4 - Modify SSD's EFI partition
 
-- First, you have to make sure your EFI partition is larger than 200MB. 250MB is a safe size.
+- First, you have to make sure your SSD's EFI partition is larger than 200MB. 250MB is a safe size.
   - If your EFI/ESP partition is smaller than 200MB, you can use `DiskGenius` to merge EFI and MSR partition.
   - If the total size of EFI/ESP and MSR partition is still smaller than 200MB, you need to create a new EFI partition with >200MB size.
 - Download and install `DiskGenius` from https://www.diskgenius.com
@@ -81,7 +81,7 @@
   - Select your target SSD and click `Erase`. Format should be `APFS`.
 <img src="https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/img/Installation_14.jpg" alt="Format SSD to APFS">&nbsp;
 - If you are installing macOS on a partition, select the target partition and click `Erase`. Format should be `APFS`.
-  - If an error message `MediaKit reports not enough space on device for requested operation` appears, please redo [Step 4](https://github.com/daliansky/XiaoMi-Pro-Hackintosh/wiki/Installation#step-4---modify-efi-partition)
+  - If an error message `MediaKit reports not enough space on device for requested operation` appears, please redo [Step 4](https://github.com/daliansky/XiaoMi-Pro-Hackintosh/wiki/Installation#step-4---modify-ssds-efi-partition)
 - Close this windows by clicking red button at top left, and double click `Install macOS`
 <img src="https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/img/Installation_15.jpg" alt="Install macOS">&nbsp;
 - Wait until finish, device will reboot several times
