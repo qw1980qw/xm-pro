@@ -93,3 +93,17 @@
   - If your device has no network, please click your location on the following map
 <img src="https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/img/Installation_16.jpg" alt="Set Time Zone">&nbsp;
 - In Windows, please download time fix scripts from https://www.tonymacx86.com/attachments/time-fix-windows-zip.94625 and run `Windows Universal Time - On.reg`
+
+
+## Appendix
+
+### Useful Commands
+
+`defaults write com.apple.finder AppleShowAllFiles -bool true`
+- Show hidden files
+
+`sudo spctl --master-disable`
+- Allow software from any sources
+
+`defaults write -g CGFontRenderingFontSmoothingDisabled -bool NO`
+- Enable font smoothing on macOS 10.14+
