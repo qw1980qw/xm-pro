@@ -28,7 +28,7 @@
 
 ## Step 3 - Download XiaoMi-Pro EFI
 
-- Download the latest release from https://github.com/daliansky/XiaoMi-Pro-Hackintosh/releases
+- Download the latest release from https://github.com/daliansky/XiaoMi-Pro-Hackintosh/releases/latest
 <img src="https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/img/Installation_4.JPG" alt="Download EFI">&nbsp;
 - Unzip it to the desktop
 
