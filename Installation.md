@@ -40,7 +40,7 @@
   - If the total size of EFI/ESP and MSR partition is still smaller than 200MB, you need to create a new EFI partition with >200MB size.
 - Download and install `DiskGenius` from https://www.diskgenius.com
 - Then, backup BOOT and CLOVER folder from your EFI/ESP partition to other places
-- Delete BOOT and CLOVER folders and copy these two folders from the EFI release you downloaded in Step 3
+- Delete BOOT and CLOVER folders and copy these two folders from the EFI release you downloaded in [Step 3](https://github.com/daliansky/XiaoMi-Pro-Hackintosh/wiki/Installation#step-3---download-xiaomi-pro-efi)
   - If there's no CLOVER folder, that's OK; Ignore the capitalization of BOOT folder, lowercase is OK
 <img src="https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/img/Installation_5.jpg" alt="Copy EFI">&nbsp;
 
