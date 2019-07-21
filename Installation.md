@@ -1,7 +1,7 @@
 ## Before Install
 
 - This is a Windows instruction
-- This instruction includes a bunch of software, I am not sure whether they are safe or not
+- This instruction includes a bunch of softwares, I am not sure whether they are safe or not
 - <b>Make sure your SSD is not PM981.</b> You have to install macOS on a hard disk other than PM981.
   - `PM981` SSD's serial number starts with `MZVLB`, and `PM961` SSD's serial number starts with `MZVLW`.
 
