@@ -53,6 +53,7 @@
 - Remember the new letter given to the EFI/ESP partition
 <img src="https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/img/Installation_7.jpg" alt="EFI Letter">&nbsp;
 - Go to `UEFI` bar, click `Edit boot entries`, click `Add` and open `EFI/CLOVER/CLOVERX64.efi` in the new file browser, click `Up` to move the new entry to the top, and close the window
+  - If there's no reaction after adding the now entry, please reopen the software.
 <img src="https://github.com/daliansky/XiaoMi-Pro/raw/master/wiki/img/Installation_8.jpg" alt="Add Clover Entry">&nbsp;
 - Go back to `Physical disk` bar, click `Parts Manager`, select ESP partition, and click `Remove Drive Letter`
   - If `Remove Drive Letter` can not be clicked, reopen the software and redo this
