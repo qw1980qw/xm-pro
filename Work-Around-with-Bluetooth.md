@@ -5,7 +5,7 @@ As we know, the Bluetooth would be invalid after long sleep or hard restart. Bec
   - Buy and insert a supported BT dongle from [OS-X-BrcmPatchRAM's README](https://github.com/RehabMan/OS-X-BrcmPatchRAM/tree/master/README.md)
   - Replace `/CLOVER/ACPI/patched/SSDT-USB.aml` with [SSDT-USB-USBBT.aml](https://raw.githubusercontent.com/daliansky/XiaoMi-Pro-Hackintosh/master/wiki/SSDT-USB-USBBT.aml)
     - This step is for disabling the internal bluetooth
-  - Add `BrcmPatchRAM2.kext` and `BrcmFirmwareRepo.kext`(/L/E) or `BrcmFirmwareData.kext`(/CLOVER/kexts/Other)
+  - [Download](https://bitbucket.org/RehabMan/os-x-brcmpatchram/downloads) and add `BrcmPatchRAM2.kext` and `BrcmFirmwareRepo.kext`(/L/E) or `BrcmFirmwareData.kext`(/CLOVER/kexts/Other)
   - Rebuild kextcache and restart 
 
 - ### Solder D+ and D- wires to the WLAN_LTE slot
