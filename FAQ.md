@@ -5,15 +5,9 @@ A: Currently there's [no solution for PM981 on macOS 10.13.3+](https://www.tonym
 - `PM981` SSD's serial number starts with `MZVLB`, and `PM961` SSD's serial number starts with `MZVLW`.
 
 ## Audio
-<b>Q: Headphones are not working after sleep</b>
+<b>Q: Headphones or microphones are not working</b>
 
-A: If headphones are not working, please use [ALCPlugFix](https://github.com/daliansky/XiaoMi-Pro/tree/master/ALCPlugFix/README.md). You may need to replug headphone after every boot.
-
-<b>Q: Microphones are not working</b>
-
-A: If microphone are not working,
- - please change `layout-id` from `99` to `30` in [config.plist](https://github.com/daliansky/XiaoMi-Pro-Hackintosh/blob/master/EFI/CLOVER/config.plist)
- - please use [ALCPlugFix](https://github.com/daliansky/XiaoMi-Pro/tree/master/ALCPlugFix/README.md).
+A: If headphones or microphones are not working, please use [ALCPlugFix](https://github.com/daliansky/XiaoMi-Pro/tree/master/ALCPlugFix/README.md). You may need to replug headphone after every boot.
 
 ## Bluetooth
 <b>Q: Bluetooth is not working after long sleep or hard restart</b>
