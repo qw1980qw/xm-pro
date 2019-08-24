@@ -12,7 +12,13 @@ As we know, the Bluetooth would be invalid after long sleep or hard restart. Bec
   - Buy and insert a supported internal wireless card(e.g. BCM943602CS) in M.2 slot
   - Carefully solder D+ and D- wires to the WLAN_LTE slot as [#7](https://github.com/stevezhengshiqi/XiaoMi-Pro/issues/7)
   - Go to Windows, run `Device Manager` to check whether the soldering is success or not
-  - If success, replace `/CLOVER/ACPI/patched/SSDT-USB.aml` with [SSDT-USB-SolderBT.aml](https://raw.githubusercontent.com/daliansky/XiaoMi-Pro-Hackintosh/master/wiki/SSDT-USB-SolderBT.aml)
+  - If success, replace `/CLOVER/ACPI/patched/SSDT-USB.aml` with [SSDT-USB-WLAN_LTEBT.aml](https://raw.githubusercontent.com/daliansky/XiaoMi-Pro-Hackintosh/master/wiki/SSDT-USB-WLAN_LTEBT.aml)
+
+- ### Solder D+ and D- wires to the fingerprint slot
+  - Buy and insert a supported internal wireless card(e.g. BCM943602CS) in M.2 slot
+  - Carefully solder D+ and D- wires to the fingerprint slot as [#246](https://github.com/daliansky/XiaoMi-Pro-Hackintosh/issues/246)
+  - Go to Windows, run `Device Manager` to check whether the soldering is success or not
+  - If success, replace `/CLOVER/ACPI/patched/SSDT-USB.aml` with [SSDT-USB-WLAN_LTEBT.aml](https://raw.githubusercontent.com/daliansky/XiaoMi-Pro-Hackintosh/master/wiki/SSDT-USB-FingerBT.aml)
 
 - ### Use VM to upload Bluetooth firmware
   - Read [black.dragon74](https://osxlatitude.com/profile/86692-blackdragon74)'s [instruction](https://osxlatitude.com/forums/topic/10127-updated-nov-2017-fix-btfirmwareuploader-in-macos-high-sierra)
